@@ -1,9 +1,9 @@
-__Name:__ Priyal Kumar  
-__Company:__ CodTech It solutions  
-__I'd:__ CT4FWD2732  
-__Domain:__ Frontend Web Development  
-__Duration:__ June to July 2024  
-__Mentor:__ Mr. Muzammil Ahmed
+* __Name:__ Priyal Kumar  
+* __Company:__ CodTech It solutions  
+* __I'd:__ CT4FWD2732  
+* __Domain:__ Frontend Web Development  
+* __Duration:__ June to July 2024  
+* __Mentor:__ Mr. Muzammil Ahmed
 
 
 Overview Of project: Weather Dashboard
