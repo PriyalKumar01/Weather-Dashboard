@@ -15,7 +15,7 @@ Objectives:
 ------------------
 * __Fetch Real-Time Weather Data:__ Integrate with the OpenWeatherMap API to obtain current weather conditions for any city worldwide.
 * __Display Weather Information:__ Show users current weather conditions, a 5-day forecast, and corresponding weather icons.
-*__Create a User-Friendly Interface:__ Develop an intuitive and responsive design for both desktop and mobile users.
+* __Create a User-Friendly Interface:__ Develop an intuitive and responsive design for both desktop and mobile users.
 
 Features:
 ----------
