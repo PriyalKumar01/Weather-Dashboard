@@ -1,6 +1,21 @@
-Weather Dashboard:
+__Name:__ Priyal Kumar 
+__Company:__ CodTech It solutions
+__I'd:__ CT4FWD2732
+__Domain:__ Frontend Web Development
+__Duration:__ June to July 2024
+__Mentor:__ Mr. Muzammil Ahmed
+
+
+Overview Of project: Weather Dashboard
+----------------------------------------
+This Weather Dashboard project is developed as part of my internship at CodTech IT Solution Pvt. Ltd. The project fetches weather data from an API and displays it to users. It involves using JavaScript and the OpenWeatherMap API to provide current weather conditions, forecasts, and weather icons.
+
+
+Objectives:
 ------------------
-This Weather Dashboard project is developed as part of my internship at CodTech IT Solution Pvt. Ltd. It fetches weather data from an API and displays it to users. This project involves using JavaScript and the OpenWeatherMap API to provide current weather conditions, forecasts, and weather icons.
+* __Fetch Real-Time Weather Data:__ Integrate with the OpenWeatherMap API to obtain current weather conditions for any city worldwide.
+* __Display Weather Information:__ Show users current weather conditions, a 5-day forecast, and corresponding weather icons.
+*__Create a User-Friendly Interface:__ Develop an intuitive and responsive design for both desktop and mobile users.
 
 Features:
 ----------
