@@ -1,8 +1,8 @@
-__Name:__ Priyal Kumar 
-__Company:__ CodTech It solutions
-__I'd:__ CT4FWD2732
-__Domain:__ Frontend Web Development
-__Duration:__ June to July 2024
+__Name:__ Priyal Kumar  
+__Company:__ CodTech It solutions  
+__I'd:__ CT4FWD2732  
+__Domain:__ Frontend Web Development  
+__Duration:__ June to July 2024  
 __Mentor:__ Mr. Muzammil Ahmed
 
 
@@ -34,10 +34,10 @@ Technologies Used:
 
   Usage:
   --------
-  __1.__ Open the application in your web browser.
-  __2.__ Enter the name of the city you want to get weather information for.
-  __3.__ Press the "Search" button.
-  __4.__ View the current weather details and 5-day forecast displayed on the dashboard.
+  __1.__ Open the application in your web browser.  
+  __2.__ Enter the name of the city you want to get weather information for.  
+  __3.__ Press the "Search" button.  
+  __4.__ View the current weather details and 5-day forecast displayed on the dashboard.  
 
 Contact: 
 ------------
